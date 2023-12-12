@@ -28,4 +28,4 @@ Command line IPA signing tool using ldid as signature core
 
 **打开pkg时如提示<font color=red>[无法打开“xxxx.pkg”, 因为它来自身份不明的开发者]</font>是因为未对pkg进行签名公正, 请自行允许系统设置中的任何来源**
 
-<u>仓库内pkgs均在Sonoma 14.1版本构建并正常使用(兼容M系列芯片), 仓库内pkgs最低兼容性为BigSur 11.0, 仓库内pkgs均为自用留存(不解答相关问题)</u>
+仓库内pkgs均在Sonoma 14.1版本构建并正常使用(兼容M系列芯片), 仓库内pkgs最低兼容性为BigSur 11.0, 仓库内pkgs均为自用留存(不解答相关问题)
